@@ -1,0 +1,2 @@
+# tincn
+công nghệ
